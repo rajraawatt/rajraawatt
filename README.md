@@ -67,5 +67,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1200&color=A0C4E8&center=true&vCenter=true&width=520&height=30&lines=Thanks+for+visiting+the+Domain" alt="thanks"/>
+  Readme still in progress....
 </p>

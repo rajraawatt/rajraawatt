@@ -67,5 +67,5 @@
 </p>
 
 <p align="center">
-  Readme still in progress....
+  <img src="assets/readme-progress.png" alt="Readme still in progress...."/>
 </p>

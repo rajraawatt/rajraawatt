@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-     <img width="367" height="390" alt="image" src="https://github.com/user-attachments/assets/4d9d08fa-52c4-422e-8351-e7de66ac5b0a" />
+    <img src="furina-eye.gif" alt="Furina Eye Animation" />
   </a>
 </p>
 
